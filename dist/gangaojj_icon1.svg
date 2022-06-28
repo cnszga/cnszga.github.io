@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_traffic_illegal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="11 0 48.81 0 57 20 57.3908429 21.5 60 23.5052549 60 56 46 56 46 48 14 48 14 56 -4.54542654e-13 56 -4.54542654e-13 20 3 20"></polygon>
+    </defs>
+    <g id="深圳公安二期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深圳公安_政务服务分类图标汇总" transform="translate(-660.000000, -660.000000)">
+            <g id="个人业务" transform="translate(120.000000, 440.000000)">
+                <g id="交管业务" transform="translate(540.000000, 0.000000)">
+                    <g id="交通违法业务" transform="translate(0.000000, 220.000000)">
+                        <g id="Group-6">
+                            <g id="ic_traffic_illegal">
+                                <g id="ic_-traffic_illegal">
+                                    <rect id="Rectangle-6" x="0" y="0" width="80" height="80"></rect>
+                                    <g id="车" transform="translate(2.000000, 12.000000)">
+                                        <polygon id="Rectangle" fill="#5772B8" points="20 1 56 1 64 21 12 21"></polygon>
+                                        <g id="Group" transform="translate(8.000000, 0.000000)">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <use id="Rectangle" fill="#0D349A" xlink:href="#path-1"></use>
+                                            <rect id="Rectangle" fill="#5772B8" mask="url(#mask-2)" x="1" y="0" width="58" height="20"></rect>
+                                        </g>
+                                        <circle id="Oval-2" fill="#5772B8" fill-rule="nonzero" cx="18" cy="36" r="4"></circle>
+                                        <polygon id="Rectangle-10" fill="#5772B8" fill-rule="nonzero" points="28 32 44 32 44 40 36.8 40 28 40"></polygon>
+                                        <polygon id="Path-2" fill="#0D349A" fill-rule="nonzero" points="11 20 32 20 32 28 8 28 0 21 5 15"></polygon>
+                                    </g>
+                                    <g id="警帽" transform="translate(42.000000, 22.000000)">
+                                        <polygon id="Path-4" fill="#0D349A" fill-rule="nonzero" points="4 21.8461538 4 26 32 26 32 21.8461538 32 20.9230769 32 20 4 20"></polygon>
+                                        <path d="M32,15 L35.8173369,11.1243279 L17.9165828,1.52655666e-16 L0.0158286824,11.1243279 L4,15 L4,22 C13.9023607,20.831082 22.6262295,20.7984262 32,22 L32,15 Z" id="Fill-1" fill="#EBC983"></path>
+                                        <path d="M4,26 C7.60136045,25.3333333 12.2680271,25 18,25 C23.7319729,25 28.3986395,25.3333333 32,26 L32,29.9968262 C27.3333333,29.3322754 22.6666667,29 18,29 C13.3333333,29 8.66666667,29.3322754 4,29.9968262 L4,26 Z" id="Rectangle-43" fill="#EBC983" fill-rule="nonzero"></path>
+                                        <path d="M22,10.9996768 C22,13.2090806 20.2090594,15 17.9999003,15 C15.7907412,15 14,13.2090806 14,10.9996768 C14,8.79059622 15.7907412,7 17.9999003,7 C20.2090594,7 22,8.79059622 22,10.9996768 Z" id="Path" fill="#0D349A"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

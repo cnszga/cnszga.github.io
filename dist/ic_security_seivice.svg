@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_security_seivice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30,68 C12.3191653,58.4375 0,42 0,12 C7.5,10.9375 13.4454457,7.02823554 19.2857143,3.71875 C23.0357143,1.59375 25.7142857,0 30,0 C34.2857143,0 36.9642857,1.59375 40.7142857,3.71875 C46.5545543,7.02823554 52.5,10.9375 60,12 C60,42 47.6808347,58.4375 30,68 Z" id="path-1"></path>
+    </defs>
+    <g id="深圳公安二期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深圳公安_政务服务分类图标汇总" transform="translate(-120.000000, -2760.000000)">
+            <g id="法人业务" transform="translate(120.000000, 1700.000000)">
+                <g id="治安业务" transform="translate(0.000000, 600.000000)">
+                    <g id="保安服务" transform="translate(0.000000, 460.000000)">
+                        <g id="ic_security_training">
+                            <g>
+                                <rect id="Rectangle-6-Copy-4" x="0" y="0" width="80" height="80"></rect>
+                                <g id="盾牌" transform="translate(10.000000, 6.000000)">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Combined-Shape" fill="#0D349A" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                    <rect id="Rectangle" fill="#5772B8" mask="url(#mask-2)" x="0" y="24" width="30" height="8"></rect>
+                                    <rect id="Rectangle-Copy-7" fill="#5772B8" mask="url(#mask-2)" x="0" y="40" width="30" height="8"></rect>
+                                </g>
+                                <g id="保安" transform="translate(38.000000, 18.000000)">
+                                    <rect id="Rectangle-16" x="0" y="0" width="40" height="40"></rect>
+                                    <path d="M20,22 C23.5,22 27,17.5228475 27,12 C27,6.4771525 27,2 20,2 C13,2 13,6.4771525 13,12 C13,17.5228475 16.5,22 20,22 Z" id="Oval-6" fill="#EBC983"></path>
+                                    <path d="M10,4 C13.3333333,2.66666667 16.6666667,2 20,2 C23.3333333,2 26.6666667,2.66666667 30,4 L27,8 L13,8 L10,4 Z" id="Rectangle" fill="#EBC983"></path>
+                                    <rect id="Rectangle" fill="#0D349A" x="11" y="8" width="19" height="4"></rect>
+                                    <path d="M4,36 C4,27.163444 11.163444,20 20,20 C28.836556,20 36,27.163444 36,36 L4,36 Z" id="Combined-Shape" fill="#EBC983"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

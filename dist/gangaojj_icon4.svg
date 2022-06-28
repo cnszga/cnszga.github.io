@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_pass_road</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="64" height="52"></rect>
+    </defs>
+    <g id="深圳公安二期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深圳公安_政务服务分类图标汇总" transform="translate(-660.000000, -1140.000000)">
+            <g id="个人业务" transform="translate(120.000000, 440.000000)">
+                <g id="交管业务" transform="translate(540.000000, 0.000000)">
+                    <g id="电子通行证业务及道路业务" transform="translate(0.000000, 700.000000)">
+                        <g id="Group-10">
+                            <g id="ic_pass_road">
+                                <rect id="Rectangle" x="0" y="0" width="80" height="80"></rect>
+                                <g stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 14.000000)">
+                                    <g id="道路">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <use id="Combined-Shape" fill="#0D349A" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                        <path d="M12,12 L12,8 L24,17 L12,26 L12,20 C7.581722,20 4,23.581722 4,28 C4,32.418278 7.581722,36 12,36 L24,36 C32.836556,36 40,43.163444 40,52 C40,60.836556 32.836556,68 24,68 L6,68 L6,60 L24,60 C28.418278,60 32,56.418278 32,52 C32,47.581722 28.418278,44 24,44 L12,44 C3.163444,44 -4,36.836556 -4,28 C-4,19.163444 3.163444,12 12,12 Z" id="Combined-Shape" fill="#5772B8" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                                    </g>
+                                    <g id="验收" transform="translate(36.000000, 8.000000)" fill-rule="nonzero">
+                                        <circle id="Oval" fill="#EBC983" cx="18" cy="18" r="18"></circle>
+                                        <polygon id="Shape" fill="#0D349A" points="26.147 10 29 12.875 15.974 26 9 18.973 11.853 16.098 15.974 20.251"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

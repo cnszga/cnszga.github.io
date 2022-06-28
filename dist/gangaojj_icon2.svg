@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_driving_licence</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="11 0 48.81 0 57 20 60 20 60 56 46 56 46 48 14 48 14 56 -4.54542654e-13 56 -4.54542654e-13 20 3 20"></polygon>
+    </defs>
+    <g id="深圳公安二期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="深圳公安_政务服务分类图标汇总" transform="translate(-660.000000, -540.000000)">
+            <g id="个人业务" transform="translate(120.000000, 440.000000)">
+                <g id="交管业务" transform="translate(540.000000, 0.000000)">
+                    <g id="机动车和驾驶证业务" transform="translate(0.000000, 100.000000)">
+                        <g id="Group-8">
+                            <g id="ic_driving_licence">
+                                <g>
+                                    <rect id="Rectangle" x="0" y="0" width="80" height="80"></rect>
+                                    <g id="车" transform="translate(2.000000, 12.000000)">
+                                        <polygon id="Rectangle" fill="#5772B8" points="20 1 56 1 64 21 12 21"></polygon>
+                                        <g id="Group" transform="translate(8.000000, 0.000000)">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <use id="Rectangle" fill="#0D349A" xlink:href="#path-1"></use>
+                                            <rect id="Rectangle" fill="#5772B8" mask="url(#mask-2)" x="1" y="0" width="58" height="20"></rect>
+                                        </g>
+                                        <circle id="Oval-2" fill="#5772B8" fill-rule="nonzero" cx="18" cy="36" r="4"></circle>
+                                        <polygon id="Rectangle-10" fill="#5772B8" fill-rule="nonzero" points="28 32 48 32 48 40 39 40 28 40"></polygon>
+                                        <polygon id="Path-2" fill="#0D349A" fill-rule="nonzero" points="11 20 32 20 32 28 8 28 0 21 5 15"></polygon>
+                                    </g>
+                                    <g id="证" transform="translate(40.000000, 28.000000)">
+                                        <polygon id="Rectangle-39" fill="#EBC983" fill-rule="nonzero" points="0 0 36 0 36 24 0 24"></polygon>
+                                        <g id="Group-11" transform="translate(6.000000, 5.000000)" fill="#0D349A">
+                                            <path d="M19.4930226,7.26745472 L19.4935178,7.27109189 C22.084647,7.92533684 24,10.2422131 24,13 L12,13 C12,10.2656712 13.8829071,7.96478404 16.4405082,7.28814731 C16.7128831,7.2453276 16.9444052,7.08179019 17.0768344,6.85493642 C17.1525897,6.72516618 17.1959184,6.57467668 17.1959184,6.41421299 C17.1959184,6.04738769 16.9694849,5.73268695 16.6468622,5.59847882 L16.647037,5.59651965 C16.1313875,5.33928165 15.7013088,4.93959123 15.4100809,4.44996078 C15.1494268,4.01173294 15,3.50145807 15,2.95678544 C15,1.32379793 16.3431458,0 18,0 C19.6568542,0 21,1.32379793 21,2.95678544 C21,3.49288002 20.8552428,3.99565177 20.6021513,4.42920236 C20.3185845,4.91495779 19.8990232,5.31381826 19.3946955,5.57529349 C19.0531553,5.70122114 18.81,6.02580786 18.81,6.40636846 C18.81,6.56977025 18.854828,6.72285271 18.9330243,6.85432106 C19.0539847,7.0576873 19.2547902,7.20933424 19.4930226,7.26745472 Z" id="Combined-Shape"></path>
+                                            <rect id="Rectangle-42" fill-rule="nonzero" x="0" y="1" width="10" height="4"></rect>
+                                            <rect id="Rectangle-42" fill-rule="nonzero" x="0" y="9" width="6" height="4"></rect>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
