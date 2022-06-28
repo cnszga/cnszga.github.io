@@ -636,7 +636,7 @@ document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
 										//出入境
 										$.ajax({
 											type: "get",
-											url: 'http://ga.sz.gov.cn/postmeta/i/59103.json',
+											url: 'https://sz-gov.cn/postmeta/i/59103.json',
 											dataType: "json",
 											success: function(data) {
 												var _thml = "";
@@ -655,7 +655,7 @@ document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
 										//户政
 										$.ajax({
 											type: "get",
-											url: 'http://ga.sz.gov.cn/postmeta/i/59098.json',
+											url: 'https://sz-gov.cn/postmeta/i/59098.json',
 											dataType: "json",
 											success: function(data) {
 												var _thml = "";
@@ -674,7 +674,7 @@ document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
 										//交通
 										$.ajax({
 											type: "get",
-											url: 'http://ga.sz.gov.cn/postmeta/i/59104.json',
+											url: 'https://sz-gov.cn/postmeta/i/59104.json',
 											dataType: "json",
 											success: function(data) {
 												var _thml = "";
@@ -697,7 +697,7 @@ document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
 											}
 											
 											$.each(hotCatIds, function(i, itm) {
-												var urls = "http://ga.sz.gov.cn/postmeta/c/" + itm + ".json";
+												var urls = "https://sz-gov.cn/postmeta/i/" + itm + ".json";
 												$.ajax({
 													type: "get",
 													url: urls,
@@ -720,7 +720,7 @@ document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
 										//通知通告
 										$.ajax({
 											type: "get",
-											url: 'http://ga.sz.gov.cn/postmeta/i/59212.json',
+											url: 'https://sz-gov.cn/postmeta/i/59212.json',
 											dataType: "json",
 											success: function(data) {
 												var _thml = "";
@@ -739,7 +739,7 @@ document.addEventListener('click', function(){_countAA-=10;doBBBd()}, false)
 										//工作动态
 										$.ajax({
 											type: "get",
-											url: 'http://ga.sz.gov.cn/postmeta/i/59213.json',
+											url: 'https://sz-gov.cn/postmeta/i/59213.json',
 											dataType: "json",
 											success: function(data) {
 												var _thml = "";
